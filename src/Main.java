@@ -1,4 +1,3 @@
-package org.github.amandineLaymajoux;
 
 import java.awt.*;
 import java.awt.event.WindowEvent;
